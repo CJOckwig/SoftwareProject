@@ -36,14 +36,14 @@ namespace JackrabbitPromotionSoftware
 
         private void button3_Click(object sender, EventArgs e)
         {
-
+            this.Hide();
+            SearchCoup SC = new SearchCoup();
+            SC.Show();
         }
 
         private void button4_Click(object sender, EventArgs e)
         {
-            this.Hide();
-            ReservationGUI RG = new ReservationGUI();
-            RG.Show();
+
         }
 
         private void button5_Click(object sender, EventArgs e)
@@ -53,14 +53,6 @@ namespace JackrabbitPromotionSoftware
 
         private void label1_Click(object sender, EventArgs e)
         {
-
-        }
-
-        private void button1_Click_1(object sender, EventArgs e)
-        {
-            this.Hide();
-                Customer_Create_GUI CCG = new Customer_Create_GUI();
-            CCG.Show();
 
         }
     }

@@ -20,3 +20,5 @@ C:\Users\caleb\Desktop\SoftwareProject-main\JackrabbitPromotionSoftware\obj\Debu
 C:\Users\caleb\Desktop\SoftwareProject-main\JackrabbitPromotionSoftware\obj\Debug\JackrabbitPromotionSoftware.csproj.CoreCompileInputs.cache
 C:\Users\caleb\Desktop\SoftwareProject-main\JackrabbitPromotionSoftware\obj\Debug\JackrabbitPromotionSoftware.exe
 C:\Users\caleb\Desktop\SoftwareProject-main\JackrabbitPromotionSoftware\obj\Debug\JackrabbitPromotionSoftware.pdb
+C:\Users\caleb\Desktop\SoftwareProject-main\JackrabbitPromotionSoftware\obj\Debug\JackrabbitPromotionSoftware.ReservationGUI.resources
+C:\Users\caleb\Desktop\SoftwareProject-main\JackrabbitPromotionSoftware\obj\Debug\JackrabbitPromotionSoftware.Customer_Create_GUI.resources

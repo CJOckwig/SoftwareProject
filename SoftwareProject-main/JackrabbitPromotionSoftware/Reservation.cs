@@ -12,9 +12,16 @@ namespace JackrabbitPromotionSoftware
         {
 
         }
-        Customer C { get; set; }
-        DateTime ResTime { get; set; }
-        int party_size { get; set; }
+        public Reservation(Customer c, DateTime D, int p)
+        {
+            res_Customer = c;
+            res_Time = D;
+            party_size = p;
+
+        }
+        Customer res_Customer { get; set; }
+        DateTime res_Time     { get; set; }
+        int      party_size   { get; set; }
 
     }
 }
